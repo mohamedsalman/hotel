@@ -20,20 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9900d0bb-617f-4991-a3e9-4a2fe3a3b265" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hotel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HotelController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/hotel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2021_01_10_100232_create_hotel_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/hotel/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/hotel/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/hotel/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/hotel/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HotelController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HotelController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/hotel/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/hotel/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +156,10 @@
       <workItem from="1610269440844" duration="601000" />
       <workItem from="1610270564726" duration="710000" />
       <workItem from="1610272404797" duration="1921000" />
+      <workItem from="1610275052011" duration="1162000" />
+      <workItem from="1610277084322" duration="1475000" />
+      <workItem from="1610278896076" duration="1781000" />
+      <workItem from="1610280705209" duration="235000" />
     </task>
     <servers />
   </component>
@@ -182,6 +176,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610273980373">
