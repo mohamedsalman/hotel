@@ -7,7 +7,7 @@
                 <h2>Hotels</h2>
             </div>
             <div class="pull-right">
-                <a class="btn btn-success" href="{{ route('hotel.create') }}" title="Create a Hotel"> <i class="fas fa-plus-circle"></i>
+                <a class="btn btn-success" href="{{ route('hotel') }}" title="Create a Hotel"> <i class="fas fa-plus-circle"></i>
                 </a>
             </div>
         </div>
